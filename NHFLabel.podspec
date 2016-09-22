@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "NHFLabel"
   s.version          = "0.0.1"
-  s.summary          = "用于对UILabel的一个扩展”
+  s.summary          = "用于对UILabel的一个扩展"
   s.homepage         = "https://github.com/nhfc99/NHFLabel"
   s.license          = 'MIT'
   s.author           = {"牛宏飞"=>"nhfc99@163.com"}  
